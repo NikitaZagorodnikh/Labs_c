@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1655031291 source:c:\users\admin\desktop\ÏĞÎÃĞÀÌÌÈĞÎÂÀÍÈÅ ËÀÁÛ\lab5\lab5_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+
+1655031292 source:c:\users\admin\desktop\ë1\lab5\lab5_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Lab2/Lab2/Lab2.cbp" />
+		<Project filename="Lab2/Lab2_2/Lab2_2.cbp" />
+		<Project filename="Lab3/Lab3_1/Lab3_1.cbp" />
+		<Project filename="Lab3/Lab3_2/Lab3_2.cbp" />
+		<Project filename="Lab4/Lab4_1/Lab4_1.cbp" />
+		<Project filename="Lab4/Lab4_2/Lab4_2.cbp" />
+		<Project filename="Lab5/Lab5_1/Lab5_1.cbp" />
+		<Project filename="Lab5/Lab5_2/Lab5_2.cbp" />
+		<Project filename="Lab7/Lab7/Lab7.cbp" />
+		<Project filename="Lab6/Lab6/Lab6.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

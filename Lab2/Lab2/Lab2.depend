@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1655030225 source:c:\users\admin\desktop\ÏĞÎÃĞÀÌÌÈĞÎÂÀÍÈÅ ËÀÁÛ\lab2\lab2\main.c
+	<stdio.h>
+	<limits.h>
+
+1655226882 source:c:\users\admin\desktop\ë1\lab2\lab2\main.c
+	<stdio.h>
+	<limits.h>
+	<time.h>
+	<stdlib.h>
+
